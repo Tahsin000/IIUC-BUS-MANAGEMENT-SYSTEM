@@ -1,0 +1,16 @@
+.footer_bg_1 {
+  background-color: #384997;
+}
+.btn:hover,
+.btn:focus,
+.btn:active,
+.btn.active,
+.open , .dropdown-toggle.btn {
+  color: #fff;
+  background-color: #384997;
+}
+
+/* .nav-item:hover {
+    color: aliceblue;
+    background-color: #384997;
+  } */
